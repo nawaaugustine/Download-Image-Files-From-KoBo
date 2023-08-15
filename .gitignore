@@ -3,8 +3,9 @@
 # Exclude config file
 config.json
 
-# Exclude data file
+# Exclude data files
 data.xlsx
+ailed_urls.xlsx
 
 # Ignore images folder
 images/

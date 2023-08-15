@@ -1,0 +1,13 @@
+# .gitignore
+
+# Exclude config file
+config.json
+
+# Exclude data file
+data.xlsx
+
+# Ignore images folder
+images/
+
+# Ignore zip folder
+zip/
